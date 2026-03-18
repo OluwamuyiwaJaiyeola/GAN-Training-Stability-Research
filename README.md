@@ -148,6 +148,9 @@ coverage despite DCGAN appearing competitive on FID alone.
 │   ├── DCGAN_Dense_Dataset.ipynb
 │   ├── WGAN_GP_Sparse_Dataset.ipynb
 │   └── WGAN_GP_Dense_Dataset.ipynb
+├── results and images/
+│   ├── sparse_generated_samples/
+│   └── dense_generated_samples/
 ├── requirements.txt
 └── README.md
 ```
@@ -194,5 +197,6 @@ Scikit-learn | Google Colab
 ## Author
 
 **Oluwamuyiwa Peter Jaiyeola**
-github.com/oluwamuyiwajaiyeola
-linkedin.com/in/oluwamuyiwa-jaiyeola
+> github.com/oluwamuyiwajaiyeola
+> 
+> linkedin.com/in/oluwamuyiwa-jaiyeola
