@@ -1,8 +1,10 @@
 # GAN Training Stability Under Data Scarcity
-### Evaluating DCGAN and WGAN-GP Across Data Size and Density Regimes
+### Evaluating GAN Training Stability Across Data Size and Density Regimes
+
 
 **MSc Dissertation Project | Distinction**
-**MSc Artificial Intelligence and Data Science | January 2026**
+
+**MSc Data Science and Artificial Intelligence  | January 2026**
 
 ---
 
@@ -149,10 +151,19 @@ coverage despite DCGAN appearing competitive on FID alone.
 │   ├── WGAN_GP_Sparse_Dataset.ipynb
 │   └── WGAN_GP_Dense_Dataset.ipynb
 ├── results and images/
-│   ├── sparse_generated_samples/
-│   └── dense_generated_samples/
-├── requirements.txt
-└── README.md
+│   ├── DCGAN Architecture.jpg
+│   ├── Dataset_Samples.jpg
+│   ├── Dense Image Generated-DCGAN(100%,50,%25%,10%)
+│   ├── Dense Image Generated-WGAN–GP(100%,50,%25%,10%)
+│   ├── Loss_Curves_Dense-DCGAN(100%,50,%25%,10%)
+│   ├── Loss_Curves_Dense-WGAN–GP(100%,50,%25%,10%)
+│   ├── Loss_Curves_Sparse-DCGAN(100%,50,%25%,10%)
+│   ├── Loss_Curves_Sparse-WGAN–GP(100%,50,%25%,10%)
+│   ├── Sparse Image Generated-DCGAN(100%,50,%25%,10%)
+│   ├── Sparse Image Generated-WGAN–GP(100%,50,%25%,10%)
+│   └── WGAN–GP Architecture.jpg
+├── README.md
+└── requirements.txt
 ```
 
 ---
